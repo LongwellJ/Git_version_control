@@ -7,3 +7,9 @@ git config --global push.default matching
 git config --global alias.co checkout
 
 git init
+
+git add .
+
+git commit -am "initial commit"
+
+
